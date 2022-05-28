@@ -1,0 +1,9 @@
+
+public abstract class FuncionarioAutenticavel extends Funcionario {
+
+	@Override
+	public double getBonificacao() {		
+		return 0;
+	}
+
+}
