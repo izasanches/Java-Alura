@@ -118,4 +118,7 @@
 			<item value="C:\Users\Eduardo\Desktop\bytebank-1.0.jar"/>
 		</list>
 	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
+	</section>
 </section>

@@ -1,7 +1,0 @@
-package br.com.bytebank.banco.especial;
-
-import Conta;
-
-public class ContaEspecial extends Conta {
-
-}
